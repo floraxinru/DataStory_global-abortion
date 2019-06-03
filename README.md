@@ -2,9 +2,14 @@
 Data Storytelling and Data Visualization project: 
 ### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?*
 
-In-progress, inspired by this article: https://www.cnn.com/2019/05/17/world/how-alabama-abortion-compares-to-world-intl/index.html
 (Hint: it does not look good for the US.)
 
+Inspired by this article: https://www.cnn.com/2019/05/17/world/how-alabama-abortion-compares-to-world-intl/index.html
+
+> "Alabama passed a near-total ban on abortion this week, strict enough to rival abortion rules in countries like Brunei, Guatemala and Syria."
+
+
+#### In-progress, planning to complete it by the end of June 2019
 
 
 
@@ -12,7 +17,7 @@ In-progress, inspired by this article: https://www.cnn.com/2019/05/17/world/how-
 * CNN news article:
 https://www.cnn.com/2019/05/17/world/how-alabama-abortion-compares-to-world-intl/index.html
 
-* UN reproductive health policies 2017 data booklet
+* UN reproductive health policies 2017 data booklet:
 https://www.un.org/en/development/desa/population/publications/pdf/policy/reproductive_health_policies_2017_data_booklet.pdf
 
 
