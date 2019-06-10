@@ -21,10 +21,10 @@ My goal is to generate two sets of visualizations to compare progress (or the la
   - *How many variables to include?* The main one is under what circumstances can a woman in the state/nation get an abortion. 
   But might also need to consider the ease of access (mandatory waiting periods, cost (healthcare and income - can vary by ethnicity also)...) **Choose 3 key factors for Phase 1.**
   
-**Phase 2** -- Add a second set of visualizations: How policies changed over time (key years for the US: 1973, 2010, 2019) in US and the World
-  - Include more variables during comparison: dig deeper into the possible reasons behind the 
+**Phase 2** -- Add a second set of visualizations: How policies changed over time (key years for the US: 1973, 2010, 2019) in the US 
+  - Include more variables during comparison: dig deeper into the possible reasons behind the contrasts; how do the different factors correlate?
   
-**Phase 3** -- Explore more variables on a global scale for a more thourough study (ie. youth crime rates and homelessness, public education, healthcare, cost of raising a child)
+**Phase 3** -- Explore more variables on a global scale for a more thorough study (ie. youth crime rates and homelessness, public education, healthcare, cost of raising a child)
 
 ### Data Acquisition and Preparation
 So far I noticed there are a lot of US data for 2012 and 2013, but few recent data from State governments - the only ones on data.gov are from Illinois from 2012, and all the URLs are broken.
