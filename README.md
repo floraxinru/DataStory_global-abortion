@@ -62,6 +62,8 @@ https://www.un.org/en/development/desa/population/publications/pdf/policy/reprod
 * Guttmacher Institute 2017 report:
 https://www.guttmacher.org/report/abortion-worldwide-2017
 
+  * Would like to create a visualization similar to this one, but being able to see US states on the same map: https://www.guttmacher.org/abortion-legality-worldwide (not sure yet if a Folium choropleth map is enough, might need to look into interactive elements?)
+
 * Guttmacher Institute 2018 fact sheet:
 https://www.guttmacher.org/fact-sheet/induced-abortion-worldwide
 
@@ -70,4 +72,7 @@ https://www.guttmacher.org/fact-sheet/induced-abortion-worldwide
 
 * Status of Women in the States, 2015 report using 2012 and 2013 data: https://statusofwomendata.org/explore-the-data/reproductive-rights/#download-data
   - They mention another report completed in 2004 but do not provide a link (I suspect it's not digitized...Will keep looking).
-  - It's good because it also contains economic data and infant mortality data which I would also like to incorporate into this data storytelling project
+  - It's good because it also contains economic data and infant mortality data (separate download) which I would also like to incorporate into this data storytelling project
+  
+* (Published June 1, 2019 by Guttmacher Institute) detailed look at US abortion laws by State (detailed, need to summarize and categorize before attempting to visualize): https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
+
