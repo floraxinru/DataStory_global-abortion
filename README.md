@@ -19,7 +19,7 @@ My goal is to generate two sets of visualizations to compare progress (or the la
 
 **Phase 1** -- One set of visualizations: US States and World Nations
   - *How many variables to include?* The main one is under what circumstances can a woman in the state/nation get an abortion. 
-  But might also need to consider the ease of access (mandatory waiting periods, cost (healthcare and income - can vary by ethnicity also)...) **Choose 3 key factors for Phase 1.**
+  But might also need to consider the ease of access (mandatory waiting periods, cost (healthcare and income - can vary by ethnicity also)...) **Either choose 3 key factors to visualize for Phase 1, or build into a ranking system which would make plotting easier**
   
 **Phase 2** -- Add a second set of visualizations: How policies changed over time (key years for the US: 1973, 2010, 2019) in the US 
   - Include more variables during comparison: dig deeper into the possible reasons behind the contrasts; how do the different factors correlate?
@@ -30,7 +30,8 @@ My goal is to generate two sets of visualizations to compare progress (or the la
 So far I noticed there are a lot of US data for 2012 and 2013, but few recent data from State governments - the only ones on data.gov are from Illinois from 2012, and all the URLs are broken.
 
 I was able to find World data for 2017 and 2018 (as recent as it gets). I plan to add the new anti-abortion policies from US states manually, to produce a visualization that is more up-to-date than the ones I found. I also plan on monitoring the news and updating the visualization.
-  (- A bonus feature in the long run (after writing up a blog about the conlcusions) would be to include web scraping of news sites, or creat customized news alerts when the visualizations need to be updated.)
+
+  (A bonus feature in the long run (after writing up a blog about the conlcusions) would be to include web scraping of news sites, or creat customized news alerts when the visualizations need to be updated.)
 
 ### Data Visualization
 Geographic map, by state/country, interactive features
