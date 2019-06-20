@@ -1,6 +1,6 @@
 # DataStory_global-abortion
 
-#### In-progress: Phase 1 completed (find data, decide on scope, and write a pitch for the write-up for this project), Phase 2 by the end of June or early July
+#### In-progress: Preparation mostly completed (find data, decide on scope, and write a pitch for the write-up for this project), Phase 2 by the end of June or early July
 
 Data Storytelling and Data Visualization project: 
 ### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?* 
@@ -19,7 +19,9 @@ My goal is to generate two sets of visualizations to compare progress (or the la
 
 **Phase 1** -- One set of visualizations: US States and World Nations
   - *How many variables to include?* The main one is under what circumstances can a woman in the state/nation get an abortion. 
-  But might also need to consider the ease of access (mandatory waiting periods, cost (healthcare and income - can vary by ethnicity also)...) **Either choose 3 key factors to visualize for Phase 1, or build into a ranking system which would make plotting easier**
+  But might also need to consider the ease of access (mandatory waiting periods, cost (healthcare and income - can vary by ethnicity also)...) 
+  
+  **Either choose 3 key factors to visualize for Phase 1, or build into a ranking system which would make plotting easier**
   
 **Phase 2** -- Add a second set of visualizations: How policies changed over time (key years for the US: 1973, 2010, 2019) in the US 
   - Include more variables during comparison: dig deeper into the possible reasons behind the contrasts; how do the different factors correlate?
