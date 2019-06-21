@@ -15,16 +15,18 @@ Inspired by this article: https://www.cnn.com/2019/05/17/world/how-alabama-abort
 ### Notes
 I am in the process of selecting and cleaning data from various resources online. 
 
-My goal is to generate two sets of visualizations to compare progress (or the lack thereof) among US States and other nations of the world, over the span of the past 5, 10, 20 years (depending on what data I can find). 
+My goal is to generate two sets of visualizations to compare progress (or the lack thereof) among US States and other nations of the world, over the span of the past 5, 10, 20 years (depending on what data I can find - 10 years seems the most reasonable). 
 
 **Phase 1** -- One set of visualizations: US States and World Nations
   - *How many variables to include?* The main one is under what circumstances can a woman in the state/nation get an abortion. 
-  But might also need to consider the ease of access (mandatory waiting periods, cost (healthcare and income - can vary by ethnicity also)...) 
+  But might also need to consider the ease of access (mandatory waiting periods), cost (healthcare coverage and income - can vary by ethnicity)...) 
   
   **Either choose 3 key factors to visualize for Phase 1, or build into a ranking system which would make plotting easier**
   
 **Phase 2** -- Add a second set of visualizations: How policies changed over time (key years for the US: 1973, 2010, 2019) in the US 
-  - Include more variables during comparison: dig deeper into the possible reasons behind the contrasts; how do the different factors correlate?
+  - Include more variables during comparison: dig deeper into the possible reasons behind the contrasts; how do the different factors correlate? 
+  - also consequences of anti-abortion laws (combine with, or separate from phase 1: infant mortality rates (Status of Women report data)
+    * New angle: induced abortion rates worldwide (2018 Guttmacher data) about the same, anti-abortion laws lead to unsafe underground practices and affect women's health (might be hard to find data to support the second part)
   
 **Phase 3** -- Explore more variables on a global scale for a more thorough study (ie. youth crime rates and homelessness, public education, healthcare, cost of raising a child)
 
