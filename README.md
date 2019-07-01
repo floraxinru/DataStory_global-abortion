@@ -42,7 +42,7 @@ Geographic map, by state/country, interactive features
 
 *July 1 Update:*
 
-Found out the Choropleth class in Folium has multiple issues (https://github.com/python-visualization/folium/issues/1051, https://github.com/python-visualization/folium/pull/1060, https://github.com/python-visualization/folium/issues/1074), and even the examples in the Folium Quickstart documentation may longer be supported in the new version. Consider using Plotly instead? 
+Found out the Choropleth class in Folium has multiple issues and may no longer be supported in the new version after 2018. Consider using Plotly instead? 
 
 Plot.ly: 
 
@@ -52,6 +52,7 @@ https://community.plot.ly/t/choropleth-map-in-dash/4807
 
 General considerations for making choropleth maps: https://blog.datawrapper.de/choroplethmaps/
 
+Updated to Folium 0.9.1 (Newest, May 26, 2019), now choropleth example works. 
 
 *June 19 Update:*
 
