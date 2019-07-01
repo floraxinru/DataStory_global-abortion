@@ -1,6 +1,6 @@
 # DataStory_global-abortion
 
-#### In-progress: Preparation mostly completed (find data, decide on scope, and write a pitch for the write-up for this project)
+#### In-progress: Preparation mostly completed (find data, decide on scope, and write a pitch for the write-up for this project). A more concise version of this ReadMe would be updated upon project completion.
 
 Data Storytelling and Data Visualization project: 
 ### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?* 
