@@ -1,6 +1,6 @@
 # DataStory_global-abortion
 
-#### In-progress: Preparation mostly completed (find data, decide on scope, and write a pitch for the write-up for this project), Phase 2 by the end of June or early July
+#### In-progress: Preparation mostly completed (find data, decide on scope, and write a pitch for the write-up for this project)
 
 Data Storytelling and Data Visualization project: 
 ### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?* 
@@ -40,8 +40,18 @@ I was able to find World data for 2017 and 2018 (as recent as it gets). I plan t
 ### Data Visualization
 Geographic map, by state/country, interactive features
 
-*July 1 Update*
+*July 1 Update:*
+
 Found out the Choropleth class in Folium has multiple issues (https://github.com/python-visualization/folium/issues/1051, https://github.com/python-visualization/folium/pull/1060, https://github.com/python-visualization/folium/issues/1074), and even the examples in the Folium Quickstart documentation seem no longer supported in the new version. Consider using Plotly instead? 
+
+Plot.ly: 
+
+https://plot.ly/python/choropleth-maps/
+
+https://community.plot.ly/t/choropleth-map-in-dash/4807
+
+General considerations for making choropleth maps: https://blog.datawrapper.de/choroplethmaps/
+
 
 *June 19 Update:*
 
