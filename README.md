@@ -54,6 +54,8 @@ General considerations for making choropleth maps: https://blog.datawrapper.de/c
 
 Updated to Folium 0.9.1 (Newest, May 26, 2019), now choropleth example works. 
 
+GeoJSON and choropleth: https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/examples/GeoJSON_and_choropleth.ipynb
+
 *June 19 Update:*
 
 Folium Choropleth Map -- works best when the colour-coded layer represents a column which contains a numerical value (such as %unemployment rate in example) - How to translate text result in data?
