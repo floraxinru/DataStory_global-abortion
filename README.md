@@ -40,6 +40,9 @@ I was able to find World data for 2017 and 2018 (as recent as it gets). I plan t
 ### Data Visualization
 Geographic map, by state/country, interactive features
 
+*July 1 Update*
+Found out the Choropleth class in Folium has multiple issues (https://github.com/python-visualization/folium/issues/1051, https://github.com/python-visualization/folium/pull/1060, https://github.com/python-visualization/folium/issues/1074), and even the examples in the Folium Quickstart documentation seem no longer supported in the new version. Consider using Plotly instead? 
+
 *June 19 Update:*
 
 Folium Choropleth Map -- works best when the colour-coded layer represents a column which contains a numerical value (such as %unemployment rate in example) - How to translate text result in data?
