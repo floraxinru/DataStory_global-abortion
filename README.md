@@ -40,6 +40,13 @@ I was able to find World data for 2017 and 2018 (as recent as it gets). I plan t
 ### Data Visualization
 Geographic map, by state/country, interactive features
 
+*July 12 Update:*
+
+Even though Folium works for choropleth, noticed Plotly allows easy addition of hovering data boxes which could make understanding the visualizations earlier;
+> For example, box next to a state or country could say: 
+
+no reason given: N, health of woman: Y, rape and incest: Y -- which would mean for this particular location, an abortion request with no reasons provided would not be permitted, but if it threatens the health of the woman, or if the pregnancy is due to rape or incest, then abortion is legal in this state or nation.)
+
 *July 1 Update:*
 
 Found out the Choropleth class in Folium has multiple issues and may no longer be supported in the new version after 2018. Consider using Plotly instead? 
@@ -93,4 +100,6 @@ https://www.guttmacher.org/fact-sheet/induced-abortion-worldwide
   - It's good because it also contains economic data and infant mortality data (separate download) which I would also like to incorporate into this data storytelling project
   
 * (Published June 1, 2019 by Guttmacher Institute) detailed look at US abortion laws by State (detailed, need to summarize and categorize before attempting to visualize): https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
+
+* What to consider when making choropleth maps (good reference): https://blog.datawrapper.de/choroplethmaps/ 
 
