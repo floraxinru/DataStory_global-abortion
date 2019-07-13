@@ -24,9 +24,10 @@ My goal is to generate two sets of visualizations to compare progress (or the la
   
   **Either choose 3 key factors to visualize for Phase 1, or build into a ranking system which would make plotting easier**
   
---*Phase 1 and 2 make up a self-contained project, sufficient to write one article on*--  
+  
+--*Note: Phase 1 and 2 make up a self-contained project, sufficient to write one article on*
 
---*Phase 3 and 4 are more social science research questions:* dig deeper into the human rights issue out of personal interest (but might need to curb curiosity here to move to machine learning projects in the short term)--
+--*Phase 3 and 4 are more social science research questions:* dig deeper into the human rights issue out of personal interest (but might need to curb curiosity here to move to machine learning projects in the short term)
 
 **Phase 3** -- Add a second set of visualizations: How policies changed over time (key years for the US: 1973, 2010, 2019) in the US
   - Include more variables during comparison: dig deeper into the possible reasons behind the contrasts; how do the different factors correlate? 
