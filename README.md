@@ -1,8 +1,8 @@
 # DataStory_global-abortion
 
-#### In-progress: Preparation mostly completed (find data, decide on scope, and write a pitch for the write-up for this project). A more concise version of this ReadMe would be updated upon project completion.
+#### In-progress: Groundwork completed (Phase 0: find data, decide on scope, and write a pitch for the write-up for this project). A more concise version of this ReadMe would be updated upon project completion.
 
-Data Storytelling and Data Visualization project: 
+Data Cleaning, Storytelling, Visualization project: 
 ### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?* 
 
 (Hint: it does not look good for the US.)
@@ -13,22 +13,27 @@ Inspired by this article: https://www.cnn.com/2019/05/17/world/how-alabama-abort
 
 
 ### Notes
-I am in the process of selecting and cleaning data from various resources online. 
 
-My goal is to generate two sets of visualizations to compare progress (or the lack thereof) among US States and other nations of the world, over the span of the past 5, 10, 20 years (depending on what data I can find - 10 years seems the most reasonable). 
+My goal is to generate two sets of visualizations to compare progress (or the lack thereof) among US States and other nations of the world, over the span of the past *x* years (depending on what data I can find - 10 years seems the most reasonable). 
 
-**Phase 1** -- One set of visualizations: US States and World Nations
+**Phase 1** -- Data Cleaning and Preparation (time-consuming! getting different forms of raw data from NGOs, government websites, and international organizations like the United Nations)
+
+**Phase 2** -- One set of visualizations: US States and World Nations
   - *How many variables to include?* The main one is under what circumstances can a woman in the state/nation get an abortion. 
   But might also need to consider the ease of access (mandatory waiting periods), cost (healthcare coverage and income - can vary by ethnicity)...) 
   
   **Either choose 3 key factors to visualize for Phase 1, or build into a ranking system which would make plotting easier**
   
-**Phase 2** -- Add a second set of visualizations: How policies changed over time (key years for the US: 1973, 2010, 2019) in the US 
+--*Phase 1 and 2 make up a self-contained project, sufficient to write one article on*--  
+
+--*Phase 3 and 4 are more social science research questions:* dig deeper into the human rights issue out of personal interest (but might need to curb curiosity here to move to machine learning projects in the short term)--
+
+**Phase 3** -- Add a second set of visualizations: How policies changed over time (key years for the US: 1973, 2010, 2019) in the US
   - Include more variables during comparison: dig deeper into the possible reasons behind the contrasts; how do the different factors correlate? 
   - also consequences of anti-abortion laws (combine with, or separate from phase 1: infant mortality rates (Status of Women report data)
-    * New angle: induced abortion rates worldwide (2018 Guttmacher data) about the same, anti-abortion laws lead to unsafe underground practices and affect women's health (might be hard to find data to support the second part)
+    * New angle (from New Yorker article, March issue): induced abortion rates worldwide (2018 Guttmacher data) stayed about the same, suggesting anti-abortion laws lead to unsafe underground practices and affect women's health (might be hard to find data to support the second part)
   
-**Phase 3** -- Explore more variables on a global scale for a more thorough study (ie. youth crime rates and homelessness, public education, healthcare, cost of raising a child)
+**Phase 4** -- Explore more variables on a global scale for a more thorough study (ie. youth crime rates and homelessness, public education, healthcare, cost of raising a child), compare with US policy change over time: more progress? less progress?
 
 ### Data Acquisition and Preparation
 So far I noticed there are a lot of US data for 2012 and 2013, but few recent data from State governments - the only ones on data.gov are from Illinois from 2012, and all the URLs are broken.
@@ -42,10 +47,15 @@ Geographic map, by state/country, interactive features
 
 *July 12 Update:*
 
+Edited the entire README, separated Phases 1 - 4, set shorter-term goals, more emphasis on data cleaning before trying Plotly vs. Folium
+
 Even though Folium works for choropleth, noticed Plotly allows easy addition of hovering data boxes which could make understanding the visualizations earlier;
 > For example, box next to a state or country could say: 
 
 > no reason given: N, health of woman: Y, rape and incest: Y -- which would mean for this particular location, an abortion request with no reasons provided would not be permitted, but if it threatens the health of the woman, or if the pregnancy is due to rape or incest, then abortion is legal in this state or nation.
+
+Plotly cheatsheet: https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf
+
 
 *July 1 Update:*
 
