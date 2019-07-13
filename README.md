@@ -45,7 +45,7 @@ Geographic map, by state/country, interactive features
 Even though Folium works for choropleth, noticed Plotly allows easy addition of hovering data boxes which could make understanding the visualizations earlier;
 > For example, box next to a state or country could say: 
 
-no reason given: N, health of woman: Y, rape and incest: Y -- which would mean for this particular location, an abortion request with no reasons provided would not be permitted, but if it threatens the health of the woman, or if the pregnancy is due to rape or incest, then abortion is legal in this state or nation.)
+> no reason given: N, health of woman: Y, rape and incest: Y -- which would mean for this particular location, an abortion request with no reasons provided would not be permitted, but if it threatens the health of the woman, or if the pregnancy is due to rape or incest, then abortion is legal in this state or nation.
 
 *July 1 Update:*
 
