@@ -1,8 +1,10 @@
 # DataStory_global-abortion
 
-#### In-progress: Groundwork completed (Phase 0: find data, decide on scope, and write a pitch for the write-up for this project). A more concise version of this ReadMe would be updated upon project completion.
+#### *In-progress*: 
 
-Data Cleaning, Storytelling, Visualization project: 
+Groundwork completed (Phase 0: find data, decide on scope, and write a pitch for the write-up for this project). A more concise version of this ReadMe would be updated upon project completion.
+
+#### Data Cleaning, Storytelling, Visualization project: 
 ### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?* 
 
 (Hint: it does not look good for the US.)
@@ -86,10 +88,14 @@ Folium documentation: https://python-visualization.github.io/folium/quickstart.h
 
 
 #### References:
+ #### General
+
 * CNN news article:
 https://www.cnn.com/2019/05/17/world/how-alabama-abortion-compares-to-world-intl/index.html
 
-> #### World Data
+* What to consider when making choropleth maps (good reference): https://blog.datawrapper.de/choroplethmaps/ 
+
+ #### World Data
 
 * UN reproductive health policies 2017 data booklet:
 https://www.un.org/en/development/desa/population/publications/pdf/policy/reproductive_health_policies_2017_data_booklet.pdf
@@ -104,13 +110,20 @@ https://www.guttmacher.org/report/abortion-worldwide-2017
 https://www.guttmacher.org/fact-sheet/induced-abortion-worldwide
 
 
-> #### US Data - by State
+ #### US Data - by State
+
+(Published July 1, 2019 by Guttmacher Institute) *An Overview of (US) Abortion Laws* (the most up-to-date data and report by State):
+
+https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
+
+* __Guttmacher Data Center data__: 
+
+https://data.guttmacher.org/states
+
+ > Data Source (Guttmacher population science report): Abortion Incidence and Service Availability in the United States, 2014, Rachel K. Jones, Jenna Jerman, 2016
+ 
+* (Published June 1, 2019 by Guttmacher Institute) detailed look at US abortion laws by State (detailed, need to summarize and categorize before attempting to visualize): https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
 
 * Status of Women in the States, 2015 report using 2012 and 2013 data: https://statusofwomendata.org/explore-the-data/reproductive-rights/#download-data
   - They mention another report completed in 2004 but do not provide a link (I suspect it's not digitized...Will keep looking).
   - It's good because it also contains economic data and infant mortality data (separate download) which I would also like to incorporate into this data storytelling project
-  
-* (Published June 1, 2019 by Guttmacher Institute) detailed look at US abortion laws by State (detailed, need to summarize and categorize before attempting to visualize): https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
-
-* What to consider when making choropleth maps (good reference): https://blog.datawrapper.de/choroplethmaps/ 
-
