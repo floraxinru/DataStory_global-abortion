@@ -103,18 +103,6 @@ https://www.cnn.com/2019/05/17/world/how-alabama-abortion-compares-to-world-intl
 
  #### World Data
 
-* UN reproductive health policies 2017 data booklet:
-https://www.un.org/en/development/desa/population/publications/pdf/policy/reproductive_health_policies_2017_data_booklet.pdf
-
-
-* Guttmacher Institute 2017 report:
-https://www.guttmacher.org/report/abortion-worldwide-2017
-
-  * Would like to create a visualization similar to this one, but being able to see US states on the same map: https://www.guttmacher.org/abortion-legality-worldwide (not sure yet if a Folium choropleth map is enough, might need to look into interactive elements?)
-
-* Guttmacher Institute 2018 fact sheet:
-https://www.guttmacher.org/fact-sheet/induced-abortion-worldwide
-
 * __Guttmacher Data Center data__: 
 
 (unfortunately categories don't match with the ones for US States; abortion data by region not by individual country)
@@ -126,15 +114,31 @@ https://data.guttmacher.org/regions
  > Data Source (table: Unintended pregnancies):  [Global, regional, and subregional trends in unintended pregnancy and its outcomes from 1990 to 2014: estimates from a Bayesian hierarchical model](https://www.guttmacher.org/article/2018/03/unintended-pregnancy-and-its-outcomes-global-regional-and-subregional-trends-1990), Lancet Global Health, 6(4):e380–e389, Bearak J et al., 2018
  
    __*44%__ of pregnancies world wide are unintended!* (https://www.guttmacher.org/infographic/2018/proportion-pregnancies-are-unintended-worldwide) (2018 inforgraphic using 1990-2014 data in source above)
+   
+   
+* UN reproductive health policies 2017 data booklet:
+https://www.un.org/en/development/desa/population/publications/pdf/policy/reproductive_health_policies_2017_data_booklet.pdf
 
+* Guttmacher Institute 2017 report:
+https://www.guttmacher.org/report/abortion-worldwide-2017
+
+* Would like to create a visualization similar to this one, but being able to see US states on the same map: https://www.guttmacher.org/abortion-legality-worldwide (Folium or Plotly)
+
+* Guttmacher Institute 2018 fact sheet - global incidence and trends:
+https://www.guttmacher.org/fact-sheet/induced-abortion-worldwide
+
+-----------------------
  #### US Data - by State
 
-(Published July 1, 2019 by Guttmacher Institute) *An Overview of (US) Abortion Laws* (the most up-to-date data and report by State):
+* __Monthly state policy updates__: https://www.guttmacher.org/state-policy * (great resource, follow when updating visualizations)
 
+* (Published July 1, 2019 by Guttmacher Institute) *An Overview of (US) Abortion Laws* (up-to-date?):
 https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
 
-* __Guttmacher Data Center data__: 
+* Fact sheets on abortion by state:
+https://www.guttmacher.org/fact-sheet/state-facts-about-abortion
 
+* __Guttmacher Data Center data__: 
 https://data.guttmacher.org/states
 
   > Data Source (2016 Guttmacher report, for tables: us-abortion-by-state-of-occurence, us-no-of-abortions): [Abortion Incidence and Service Availability in the United States, 2014](https://www.guttmacher.org/journals/psrh/2017/01/abortion-incidence-and-service-availability-united-states-2014), Rachel K. Jones, Jenna Jerman, 2016
