@@ -124,6 +124,8 @@ https://data.guttmacher.org/regions
  > Data Source (table: Abortion and outcomes by region): Abortion incidence between 1990 and 2014: global, regional, and subregional levels and trends The Lancet. Sedgh G et al. 2016 https://www.guttmacher.org/article/2016/05/AWW-levels-and-trends-abortion-incidence-1990-2014 https://doi.org/10.1016/S0140-6736(16)30380-4 (can compare 10 year trend for Phase 3 or 4)
  
  > Data Source (table: Unintended pregnancies):  [Global, regional, and subregional trends in unintended pregnancy and its outcomes from 1990 to 2014: estimates from a Bayesian hierarchical model](https://www.guttmacher.org/article/2018/03/unintended-pregnancy-and-its-outcomes-global-regional-and-subregional-trends-1990), Lancet Global Health, 6(4):e380–e389, Bearak J et al., 2018
+ 
+   *44% of pregnancies world wide are unintended!* (https://www.guttmacher.org/infographic/2018/proportion-pregnancies-are-unintended-worldwide) (2018 inforgraphic using 1990-2014 data in source above)
 
  #### US Data - by State
 
@@ -136,6 +138,9 @@ https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
 https://data.guttmacher.org/states
 
   > Data Source (2016 Guttmacher report): [Abortion Incidence and Service Availability in the United States, 2014](https://www.guttmacher.org/journals/psrh/2017/01/abortion-incidence-and-service-availability-united-states-2014), Rachel K. Jones, Jenna Jerman, 2016
+  
+  > Data Source (table: us-pregnancies-ending-in-abortion): Kost K, Maddow-Zimet I and Kochhar S, Pregnancy Desires and Pregnancies at the State Level: Estimates for 2014, New York: Guttmacher Institute, 2018 https://www.guttmacher.org/reports/pregnancy-desires-and-pregnancies-state-level-estimates-2014
+  
  
 * (Published June 1, 2019 by Guttmacher Institute) detailed look at US abortion laws by State (detailed, need to summarize and categorize before attempting to visualize): https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
 
