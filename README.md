@@ -116,6 +116,10 @@ https://data.guttmacher.org/regions
    __*44%__ of pregnancies world wide are unintended!* (https://www.guttmacher.org/infographic/2018/proportion-pregnancies-are-unintended-worldwide) (2018 inforgraphic using 1990-2014 data in source above)
    
    
+* __Center for Reproductive Health__ has world map of abortion laws, updated in-real-time; cited by Guttmacher reports (if found it earlier would've saved time)
+
+https://reproductiverights.org/worldabortionlaws
+   
 * UN reproductive health policies 2017 data booklet:
 https://www.un.org/en/development/desa/population/publications/pdf/policy/reproductive_health_policies_2017_data_booklet.pdf
 
