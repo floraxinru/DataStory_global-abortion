@@ -36,7 +36,7 @@ My goal is to generate two sets of visualizations to compare progress (or the la
 
 --*Phase 3 and 4 are more social science research questions:* dig deeper into the human rights issue out of personal interest (but might need to curb curiosity here to move to machine learning projects in the short term)
 
-**Phase 3** -- Add a second set of visualizations: How policies changed over time (key years for the US: 1973, 2010, 2019) in the US
+**Phase 3** -- Add a second set of visualizations: How policies changed over time in the world and in the US ([US landmark cases](https://reproductiverights.org/world-abortion-laws/united-states-abortion-provisions))
   - Include more variables during comparison: dig deeper into the possible reasons behind the contrasts; how do the different factors correlate? 
   - also consequences of anti-abortion laws (combine with, or separate from phase 1: infant mortality rates (Status of Women report data)
     * New angle (from New Yorker article, March issue): induced abortion rates worldwide (2018 Guttmacher data) stayed about the same, suggesting anti-abortion laws lead to unsafe underground practices and affect women's health (might be hard to find data to support the second part)
@@ -116,7 +116,7 @@ https://data.guttmacher.org/regions
    __*44%__ of pregnancies world wide are unintended!* (https://www.guttmacher.org/infographic/2018/proportion-pregnancies-are-unintended-worldwide) (2018 inforgraphic using 1990-2014 data in source above)
    
    
-* __Center for Reproductive Health__ has world map of abortion laws, updated in-real-time; cited by Guttmacher reports (if found it earlier would've saved time)
+* __Center for Reproductive Health__ " the only global legal advocacy organization dedicated to reproductive rights"; has world map of abortion laws, updated in-real-time; cited by Guttmacher reports (if found it earlier would've saved time); also has global comparison over time, and state-by-state comparisons
 
 https://reproductiverights.org/worldabortionlaws
    
@@ -158,3 +158,5 @@ https://data.guttmacher.org/states
   
 * US 5-10 year trend: Guttmacher Institute, Last five years account for more than one-quarter of all abortion restrictions enacted since Roe, News in Context, https://www.guttmacher.org/article/2016/01/last-five-years-account-more-one-quarter-all-abortion-restrictions-enacted-roe (Jan. 2016) 
 
+* What if Roe v. Wade fell? Visualizations to compare which states are at the highest risk of banning abortion altogether
+https://reproductiverights.org/what-if-roe-fell (can link in article)
