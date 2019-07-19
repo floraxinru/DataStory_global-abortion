@@ -5,11 +5,11 @@
 Groundwork completed (Phase 0: find data, decide on scope, and write a pitch for the write-up for this project). A more concise version of this ReadMe would be updated upon project completion.
 
 ### Data Cleaning, Storytelling, Visualization project: 
+### Motivation
+
 #### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?* 
 
 (Hint: it does not look good for the US.)
-
-### Motivation
 
 Inspired by this article: https://www.cnn.com/2019/05/17/world/how-alabama-abortion-compares-to-world-intl/index.html
 
@@ -100,6 +100,7 @@ https://www.cnn.com/2019/05/17/world/how-alabama-abortion-compares-to-world-intl
 
 * What to consider when making choropleth maps (good reference): https://blog.datawrapper.de/choroplethmaps/ 
 
+
  #### World Data
 
 * UN reproductive health policies 2017 data booklet:
@@ -114,6 +115,15 @@ https://www.guttmacher.org/report/abortion-worldwide-2017
 * Guttmacher Institute 2018 fact sheet:
 https://www.guttmacher.org/fact-sheet/induced-abortion-worldwide
 
+* __Guttmacher Data Center data__: 
+
+(unfortunately categories don't match with the ones for US States; abortion data by region not by individual country)
+
+https://data.guttmacher.org/regions
+
+ > Data Source (table: Abortion and outcomes by region): Abortion incidence between 1990 and 2014: global, regional, and subregional levels and trends The Lancet. Sedgh G et al. 2016 https://www.guttmacher.org/article/2016/05/AWW-levels-and-trends-abortion-incidence-1990-2014 https://doi.org/10.1016/S0140-6736(16)30380-4 (can compare 10 year trend for Phase 3 or 4)
+ 
+ > Data Source (table: Unintended pregnancies):  [Global, regional, and subregional trends in unintended pregnancy and its outcomes from 1990 to 2014: estimates from a Bayesian hierarchical model](https://www.guttmacher.org/article/2018/03/unintended-pregnancy-and-its-outcomes-global-regional-and-subregional-trends-1990), Lancet Global Health, 6(4):e380–e389, Bearak J et al., 2018
 
  #### US Data - by State
 
@@ -125,10 +135,13 @@ https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
 
 https://data.guttmacher.org/states
 
- > Data Source (Guttmacher population science report): Abortion Incidence and Service Availability in the United States, 2014, Rachel K. Jones, Jenna Jerman, 2016
+  > Data Source (2016 Guttmacher report): [Abortion Incidence and Service Availability in the United States, 2014](https://www.guttmacher.org/journals/psrh/2017/01/abortion-incidence-and-service-availability-united-states-2014), Rachel K. Jones, Jenna Jerman, 2016
  
 * (Published June 1, 2019 by Guttmacher Institute) detailed look at US abortion laws by State (detailed, need to summarize and categorize before attempting to visualize): https://www.guttmacher.org/state-policy/explore/overview-abortion-laws
 
 * Status of Women in the States, 2015 report using 2012 and 2013 data: https://statusofwomendata.org/explore-the-data/reproductive-rights/#download-data
   - They mention another report completed in 2004 but do not provide a link (I suspect it's not digitized...Will keep looking).
   - It's good because it also contains economic data and infant mortality data (separate download) which I would also like to incorporate into this data storytelling project
+  
+* US 5-10 year trend: Guttmacher Institute, Last five years account for more than one-quarter of all abortion restrictions enacted since Roe, News in Context, https://www.guttmacher.org/article/2016/01/last-five-years-account-more-one-quarter-all-abortion-restrictions-enacted-roe (Jan. 2016) 
+
