@@ -5,7 +5,7 @@
 Groundwork completed (Phase 0: find data, decide on scope, and write a pitch for the write-up for this project). A more concise version of this ReadMe would be updated upon project completion.
 
 #### Data Cleaning, Storytelling, Visualization project: 
-### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?* 
+#### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?* 
 
 (Hint: it does not look good for the US.)
 
@@ -13,6 +13,11 @@ Inspired by this article: https://www.cnn.com/2019/05/17/world/how-alabama-abort
 
 > "Alabama passed a near-total ban on abortion this week, strict enough to rival abortion rules in countries like Brunei, Guatemala and Syria."
 
+#### Motivation
+
+I have found some good resources and dedicated groups doing research on women's reproductive health. However, none of the visualizations I've come across have put the abortion regulations by world countries and US States in direct comparison. This is what I'm hoping to achieve with this project. 
+
+There are quite a few challenges including finding and integrating the data (with matching topics and years), reducing the scope and choosing only a handful of key factors in this very complex global and socioeconomic issue, as well as choosing a type of visualization that displays verbal and geographical information well, and allows for some flexibility in scaling (can actually zoom in and see the US States on world map, or might need multiple maps for that), among others.
 
 ### Notes
 
@@ -86,7 +91,7 @@ Folium documentation: https://python-visualization.github.io/folium/quickstart.h
 
 ### Further Work
 
-
+---------------------------
 #### References:
  #### General
 
