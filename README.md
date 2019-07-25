@@ -59,10 +59,13 @@ Installed packages for making choropleth maps with Plotly.
 
 (Keep using Folium for now to get preliminary analysis results for article, then try Plotly?)
 
-Also, is map projection an issue that needs to be considered? [Mercator Projection](https://en.wikipedia.org/wiki/Mercator_projection) commonly used by popular mapping softwares 
-  - Basemap toolkit [documentation](https://matplotlib.org/basemap/): 
-  > The matplotlib basemap toolkit is a library for plotting 2D data on maps in Python. Basemap does not do any plotting on its own, but provides the facilities to transform coordinates to one of 25 different map projections.
+Installed **Basemap** toolkit [documentation](https://matplotlib.org/basemap/): 
 
+  > The matplotlib basemap toolkit is a library for plotting 2D data on maps in Python. Basemap does not do any plotting on its own, but provides the facilities to transform coordinates to one of 25 different map projections.
+  
+  > Basemap makes it easy to convert from the spherical coordinate system (latitudes & longitudes) to the [Mercator Projection](https://en.wikipedia.org/wiki/Mercator_projection)-- this projection is commonly used by popular mapping softwares 
+  - Because basemap uses matplotlib, need to import matplotlib.pyplot into your environment when using Basemap.
+  
 *Finish Phase 1 and 2 in 2 weeks!*
 
 *July 23 Update*
@@ -181,4 +184,4 @@ https://reproductiverights.org/what-if-roe-fell (can link in article)
 
 
 ### Installation and Usage
-* upgraded to pip-19.2.1 on July 25; also installed geopandas, pyshp, and shapely - for Plotly, don't need them if only use Folium to generate visualizations
+* upgraded to pip-19.2.1 on July 25; also installed geopandas0.3.0, pyshp 1.2.10, and shapely1.6.3 - suggested by Plotly documentation for choropleth map; don't need them if only use Folium to generate visualizations
