@@ -59,7 +59,7 @@ Installed packages for making choropleth maps with Plotly.
 
 (Keep using Folium for now to get preliminary analysis results for article, then try Plotly?)
 
-Also, is map projection an issue that needs to be considered?
+Also, is map projection an issue that needs to be considered? [Mercator Projection](https://en.wikipedia.org/wiki/Mercator_projection)commonly used by popular mapping softwares (assume already built in and converted into the correct coodinates)
 
 *Finish Phase 1 and 2 in 2 weeks!*
 
