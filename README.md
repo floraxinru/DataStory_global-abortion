@@ -53,6 +53,20 @@ I was able to find World data for 2017 and 2018 (as recent as it gets). I plan t
 ### Data Visualization
 Geographic map, by state/country, interactive features
 
+*July 25 Update*
+
+Installed packages for making choropleth maps with Plotly.
+
+(Keep using Folium for now to get preliminary analysis results for article, then try Plotly?)
+
+Finish Phase 1 and 2 in 2 weeks
+
+*July 23 Update*
+
+Cleaned a small dataset and made the first choropleth map using Folium and GeoJSON. 
+
+Wrote outline for DQ article (data story and tutorial); longer outline draft for blog post
+
 *July 12 Update:*
 
 Edited the entire README, separated Phases 1 - 4, set shorter-term goals, more emphasis on data cleaning before trying Plotly vs. Folium
