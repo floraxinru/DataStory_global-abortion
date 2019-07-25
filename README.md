@@ -59,7 +59,9 @@ Installed packages for making choropleth maps with Plotly.
 
 (Keep using Folium for now to get preliminary analysis results for article, then try Plotly?)
 
-Finish Phase 1 and 2 in 2 weeks
+Also, is map projection an issue that needs to be considered?
+
+*Finish Phase 1 and 2 in 2 weeks!*
 
 *July 23 Update*
 
