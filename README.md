@@ -160,3 +160,7 @@ https://data.guttmacher.org/states
 
 * What if Roe v. Wade fell? Visualizations to compare which states are at the highest risk of banning abortion altogether
 https://reproductiverights.org/what-if-roe-fell (can link in article)
+
+
+### Installation and Usage
+* upgraded to pip-19.2.1 on July 25; also installed geopandas, pyshp, and shapely - for Plotly, don't need them if only use Folium to generate visualizations
