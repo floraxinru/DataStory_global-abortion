@@ -40,6 +40,9 @@ My goal is to generate two sets of visualizations to compare progress (or the la
   - Include more variables during comparison: dig deeper into the possible reasons behind the contrasts; how do the different factors correlate? 
   - also consequences of anti-abortion laws (combine with, or separate from phase 1: infant mortality rates (Status of Women report data)
     * New angle (from New Yorker article, March issue): induced abortion rates worldwide (2018 Guttmacher data) stayed about the same, suggesting anti-abortion laws lead to unsafe underground practices and affect women's health (might be hard to find data to support the second part)
+    * another possible new direction to explore: Abortion restrictions and crime --
+    [Freakonomics podcast](http://freakonomics.com/podcast/abortion/); 
+    [paper](https://en.m.wikipedia.org/wiki/Legalized_abortion_and_crime_effect#2019_Updated_paper_by_Donahue_and_Levitt) (need crime data)
   
 **Phase 4** -- Explore more variables on a global scale for a more thorough study (ie. youth crime rates and homelessness, public education, healthcare, cost of raising a child), compare with US policy change over time: more progress? less progress?
 
