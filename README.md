@@ -1,10 +1,14 @@
 # DataStory_global-abortion
 
 #### *In-progress*: 
+(Please excuse the mess. A more concise version of this ReadMe would be updated upon project completion.)
 
-Groundwork completed (Phase 0: find data, decide on scope, and write a pitch for the write-up for this project). A more concise version of this ReadMe would be updated upon project completion.
+Groundwork completed (Phase 0: found data, decided on scope, wrote a pitch and an outline for the write-up for this project).
 
-### Data Cleaning, Storytelling, Visualization project: 
+**Goal: Finish Phase 1 and 2 and write article by the end of August!**
+
+### Data Cleaning/Storytelling/Visualization project: 
+
 ### Motivation
 
 #### *How do anti-abortion laws and regulations recently passed in certain US states compare with those from other countries around the world?* 
@@ -30,7 +34,6 @@ My goal is to generate two sets of visualizations to compare progress (or the la
   But might also need to consider the ease of access (mandatory waiting periods), cost (healthcare coverage and income - can vary by ethnicity)...) 
   
   **Either choose 3 key factors to visualize for Phase 1, or build into a ranking system which would make plotting easier**
-  
   
 --*Note: Phase 1 and 2 make up a self-contained project, sufficient to write one article on*
 
@@ -68,8 +71,6 @@ Installed **Basemap** toolkit [documentation](https://matplotlib.org/basemap/):
   
   > Basemap makes it easy to convert from the spherical coordinate system (latitudes & longitudes) to the [Mercator Projection](https://en.wikipedia.org/wiki/Mercator_projection)-- this projection is commonly used by popular mapping softwares 
   - Because basemap uses matplotlib, need to import matplotlib.pyplot into your environment when using Basemap.
-  
-*Finish Phase 1 and 2 in 2 weeks!*
 
 *July 23 Update*
 
