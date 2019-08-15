@@ -188,6 +188,6 @@ https://reproductiverights.org/what-if-roe-fell (can link in article)
 
 
 ### Installation and Usage
-* Download the .csv data file, as well as requirements.txt. Install the requirements for this project using pip install -r requirements.txt. This will install the exact version of the libraries that I had when doing this project.
+* Download the .csv data file, as well as requirements.txt (*generated after completing notebook, as libraries continue to get updated*). Install the requirements for this project using pip install -r requirements.txt. This will install the exact version of the libraries that I had when doing this project.
 
 * (upgraded to pip-19.2.1 on July 25; also installed geopandas0.3.0, pyshp 1.2.10, and shapely1.6.3 - suggested by Plotly documentation for choropleth map; don't need them if only use Folium to generate visualizations)
