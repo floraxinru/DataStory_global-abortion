@@ -1,7 +1,7 @@
 # DataStory_global-abortion
 
 #### *In-progress*: 
-(Please excuse the mess. A more concise version of this ReadMe would be updated upon project completion.)
+(Please excuse the mess. A more concise version of this ReadMe would be updated upon project completion. See uploaded ouline PDF to get a quick summary of the project.)
 
 Groundwork completed (Phase 0: found data, decided on scope, wrote a pitch and an outline for the write-up for this project).
 
