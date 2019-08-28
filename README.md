@@ -5,8 +5,6 @@
 
 Groundwork completed (Phase 0: found data, decided on scope, wrote a pitch and an outline for the write-up for this project).
 
-**Goal: Finish Phase 1 and 2 and write article by the end of August!**
-
 ### Data Cleaning/Storytelling/Visualization project: 
 
 ### Motivation
@@ -55,6 +53,8 @@ So far I noticed there are a lot of US data for 2012 and 2013, but few recent da
 I was able to find World data for 2017 and 2018 (as recent as it gets). I plan to add the new anti-abortion policies from US states manually, to produce a visualization that is more up-to-date than the ones I found. I also plan on monitoring the news and updating the visualization.
 
   (A bonus feature in the long run (after writing up a blog about the conlcusions) would be to include web scraping of news sites, or creat customized news alerts when the visualizations need to be updated.)
+  
+  (*The original goal of finishing Phase 1 and 2 as well as article by the end of August was delayed by health issues*)
 
 ### Data Visualization
 Geographic map, by state/country, interactive features
@@ -155,6 +155,8 @@ https://www.guttmacher.org/report/abortion-worldwide-2017
 
 * Guttmacher Institute 2018 fact sheet - global incidence and trends:
 https://www.guttmacher.org/fact-sheet/induced-abortion-worldwide
+
+**News update** August 27 - In addition to Alberta, which is traditionally conservative, one Conservative MP from the Province of Quebec is also making claims about running on an anti-abortion agenda for the election in Fall 2019 (even though the Conservative leader Andrew Sheer seems to deny that). This just shows in a country like Canada, which is often leading the way on protecting and advancing human rights, there can still be efforts to erode that progress.
 
 -----------------------
  #### US Data - by State
