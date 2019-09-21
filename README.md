@@ -59,7 +59,9 @@ I was able to find World data for 2017 and 2018 (as recent as it gets). I plan t
 ### Data Visualization
 Geographic map, by state/country, interactive features
 
-*August 2019* Project paused due to applications and FT program
+*August 2019* 
+
+*Project paused due to applications and FT program*
 
 *July 25 Update*
 
