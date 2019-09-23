@@ -63,6 +63,8 @@ Geographic map, by state/country, interactive features
 
 *Project paused due to applications and FT program*
 
+(Pick up from: abortion-worldwide-2017.pdf pg 59, Evaluating Priorities August 2017.pdf pg 11)
+
 *July 25 Update*
 
 Installed packages for making choropleth maps with Plotly.
